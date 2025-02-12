@@ -1,4 +1,4 @@
-## Hi, I'm Daria Kowal! 👋
+## Hi, I'm Daria! 👋
 💡 Machine Learning Engineer | AI Enthusiast
 
 I'm a ML Engineer with a Master's degree in Artificial Intelligence from Wroclaw University of Science and Technology. My expertise lies in machine learning, deep learning, and image processing, with a strong passion for applying AI to real-world challenges, especially in sign language recognition.
