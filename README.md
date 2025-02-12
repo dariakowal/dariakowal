@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Daria Kowal! 👋
+💡 Machine Learning Engineer | AI Enthusiast
 
-<!--
-**dariakowal/dariakowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ML Engineer with a Master's degree in Artificial Intelligence from Wroclaw University of Science and Technology. My expertise lies in machine learning, deep learning, and image processing, with a strong passion for applying AI to real-world challenges, especially in sign language recognition.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)  [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23102230.svg?style=flat)](https://en.wikipedia.org/wiki/Machine_learning)  [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)  [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)  [![Image Processing](https://img.shields.io/badge/Image%20Processing-%23102230.svg?style=flat)](https://en.wikipedia.org/wiki/Digital_image_processing)  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCA28.svg?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)  [![SpaCy](https://img.shields.io/badge/SpaCy-%2309A3D5.svg?style=flat&logo=spacy&logoColor=white)](https://spacy.io/)  [![Regex](https://img.shields.io/badge/Regex-%233A3A3A.svg?style=flat)](https://en.wikipedia.org/wiki/Regular_expression)  [![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=sqlite&logoColor=white)](https://www.w3schools.com/sql/)  [![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=flat&logo=databricks&logoColor=white)](https://databricks.com/)  [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)  [![DVC](https://img.shields.io/badge/DVC-%23945DD6.svg?style=flat&logo=dvc&logoColor=white)](https://dvc.org/)  [![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  [![Transformers](https://img.shields.io/badge/Transformers-%23FFC20A.svg?style=flat&logo=transformers&logoColor=white)](https://huggingface.co/transformers/) [![NLTK](https://img.shields.io/badge/NLTK-%23C51162.svg?style=flat&logo=nltk&logoColor=white)](https://www.nltk.org/) [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+### 📫 Reach Me  
+📧 **Email:** daria.kowal21@wp.pl  
+🔗 **LinkedIn:** [Daria Kowal](https://www.linkedin.com/in/daria-kowal-a4b33223b/)  
+
